@@ -1,0 +1,15 @@
+﻿ticket_id;fecha_creada;canal;mensaje_usuario;prioridad
+TICKET-22004;18/09/2023;mesa_de_ayuda_web;Se registra una solicitud relacionada con Servicio de coaching en plataforma educativa.;Baja
+TICKET-39424;7/10/2025;mesa_de_ayuda_web;El usuario reporta que no visualiza correctamente contenidos digitales en RLP.;Media
+TICKET-30728;13/10/2024;mesa_de_ayuda_web;Se solicita creación o configuración de un piloto, demo o recurso en RLP.;Baja
+TICKET-30851;22/10/2024;mesa_de_ayuda_web;Se solicita creación o configuración de un piloto, demo o recurso en Loqueleo.;Baja
+TICKET-26047;12/03/2024;mesa_de_ayuda_web;Se registra una solicitud relacionada con DES - Servicio al cliente de operador de transporte en plataforma educativa.;Baja
+TICKET-44281;6/04/2026;mesa_de_ayuda_web;Se registra una solicitud relacionada con Problemas de acceso PE en Otra (plataforma educativa).;Alta
+TICKET-19393;15/05/2023;mesa_de_ayuda_web;Se registra una solicitud relacionada con Reposición de códigos de activación en e-stela.;Baja
+TICKET-37573;27/06/2025;mesa_de_ayuda_web;Se registra una solicitud relacionada con Gestión de usuarios: Alta y baja de usuarios en plataforma educativa.;Baja
+TICKET-32789;3/02/2025;mesa_de_ayuda_web;Se solicita creación o configuración de un piloto, demo o recurso en RLP.;Baja
+TICKET-19475;17/05/2023;mesa_de_ayuda_web;El usuario indica problemas de acceso o credenciales en Loqueleo.;Alta
+TICKET-16703;10/03/2023;mesa_de_ayuda_web;El usuario indica problemas de acceso o credenciales en Santillana Digital.;Alta
+TICKET-28786;18/06/2024;mesa_de_ayuda_web;El usuario indica problemas de acceso o credenciales en plataforma educativa.;Alta
+TICKET-18797;2/05/2023;mesa_de_ayuda_web;El usuario indica problemas de acceso o credenciales en Santillana Digital.;Alta
+TICKET-34960;9/04/2025;mesa_de_ayuda_web;Se solicita revisión o activación de contenidos digitales en Santillana Digital.;Baja
